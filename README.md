@@ -2,8 +2,8 @@
 
 ### **An empirical study using NLP, FastText embeddings, and panel regression (522 annual reports, IDX 2017–2019)**
 
-**Author:** *Ayu Putri Vidiantiwi*
-**Affiliation:** BINUS University
+* **Author:** Ayu Putri Vidiantiwi
+* **Affiliation:** BINUS University
 
 ---
 

@@ -201,7 +201,7 @@ This research demonstrates:
 
 **Ayu Putri Vidiantiwi**  
 * 📚 M.S. in Applied Analytics, Columbia University  
-* 📚 BS.Acc. in Accounting, BINUS University
+* 📚 B.S.Acc. in Accounting, BINUS University
 * 📊 Passionate about finance, business, data storytelling, and analytics
 * 🌐 LinkedIn - https://www.linkedin.com/in/ayuputriv/
 * 📧 ayu.vidiantiwi@columbia.edu
